@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
+title: O mnie
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Jestem Dwollan(er) i w sumie to nie zapraszam na nic.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Kiedyś zamieszczę tutaj lepszy opis oraz kontakt. Na ten moment zadowól się tym czymś
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[![Dwollaner](https://avatars.githubusercontent.com/u/56686871?v=4)](https://github.com/Dwollaner) Tak
+
+<br/>
+
+<br/>
+
+<br/>
+
+##### Strona wykorzystuje motyw [Minima](https://github.com/jekyll/minima).
+
+##### Kod źródłowy Jekyll'a dostępny na [Github](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+
