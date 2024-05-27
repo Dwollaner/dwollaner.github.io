@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dwollaner, Dwollan, Dolan - wszystko jedno
+title: Dwollan(er)
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nie wiedziałem jaki nick sobie nadać. Skończyło się na tym, że jestem Dolanem z dodatkami.
